@@ -1,0 +1,482 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="admissionInfo">Admission Information</string>
+    <string name="streamSuggestor">Stream Suggestor</string>
+    <string name="findCollege">Find a College</string>
+    <string name="areaInfo">What\'s Nearby?</string>
+    <string name="documentChecklist">Document Checklist</string>
+
+    <!--Admission Info-->
+
+    <string name="ua_info">University and Admission Information</string>
+    <string name="u">About the University</string>
+    <string name="a">How the Admission Process Works</string>
+    <string name="uni_info_text">Savitribai Phule Pune University is one of the premier universities in India. The university houses 46 academic departments. It is popularly known as the \'Oxford of the East\'. It has about 307 recognized research institutes and 612 affiliated colleges offering graduate and under-graduate courses. </string>
+    <string name="admi_info_text">After the declaration of result, the next step towards the B.Tech admission process is counselling process. The qualified candidates have to undergo through the counselling process followed by the requisite payment of the counselling fee. As soon as the payment will be done, candidate will be eligible for filling the choices for colleges. Result of the allotted seats will be sent to the candidates via SMS individually. The candidates are required to download the seat allotment letter from the official site of the board and report to the allotted college within the prescribed date. Once the admission fee will be paid, the admission of the candidate is confirmed.</string>
+    <string name="t_eligibility">Eligibility Criteria</string>
+    <string name="t_exam">Qualifying Exam</string>
+    <string name="t_reservation">Reservation</string>
+    <string name="hsc">HSC</string>
+    <string name="hsc_desc1"> • Compulsory subjects: Physics, Chemistry, Maths</string>
+    <string name="hsc_desc2"> • Total score should be at least 50% (BC: 45%, Disability: 45%)</string>
+    <string name="diploma">Diploma</string>
+    <string name="diploma_desc"> • At least 50% marks in diploma examination (BC: 45%, Disability: 45%)</string>
+    <string name="bsc">BSc</string>
+    <string name="bsc_desc"> • At least 50% marks in BSc examination (BC: 45%, Disability: 45%)</string>
+    <string name="exam_desc1"> • Marks scored in MHT-CET examination will be considered for Maharashtra students</string>
+    <string name="mh_candidate">Maharashtra Candidate</string>
+    <string name="ai_candidate">All India Candidate</string>
+    <string name="nri_candidate">NRI / OCI / PIO Candidate</string>
+    <string name="exam_desc3"> • Children of NRI / OCI / PIO should have passed HSC or equivalent exam </string>
+    <string name="exam_desc2"> • If the student has not given MHT-CET examination, marks scored in JEE Main Paper 1 can be considered for admission</string>
+    <string name="res_criteria">Criteria</string>
+    <string name="defence">Children of Defense Personnel</string>
+    <string name="disability">Candidates with Disability</string>
+    <string name="defence_desc"> • 5% reservation is present for children of defense personnel</string>
+    <string name="disability_desc1"> • 3% reservation is present for candidates with disability :</string>
+    <string name="disability_desc2">    1% : Visually impaired</string>
+    <string name="disability_desc3">    1% : Speech and hearing impaired</string>
+    <string name="disability_desc4">    1% : Orthopedic disorders, dyslexia etc.</string>
+    <string name="res_1_desc1"> • Reservations are applicable only for candidates belonging to Maharashtra state</string>
+    <string name="res_1_desc2"> • 50% of the total seats are allocated under reservation</string>
+
+    <!--DocumentChecklist-->
+
+    <!--Button Text-->
+    <string name="mahaState">Maharashta State Candidate</string>
+    <string name="outMahaState">Out of Maharashtra State Candidate</string>
+
+    <!--Documents-->
+    <string name="allot">Allotment Letter of CAP *</string>
+    <string name="ssc">SSC Board Marksheet</string>
+    <string name="hscboard">HSC Board Marksheet</string>
+    <string name="leaving">Transfer/Leaving Certificate of XII std.</string>
+    <string name="proforma">Proforma-I *</string>
+    <string name="jee">JEE Main Score Card</string>
+    <string name="gap_cert">Gap Certificate (if any)</string>
+    <string name="caste_cert">Caste Certificate +</string>
+    <string name="caste_validity">Caste Validity Certificate +</string>
+    <string name="non_creamy">Non-creamy Layer Certificate +</string>
+    <string name="aadhar">Aadhar Card</string>
+    <string name="nationality_cert">Passport / Birth Certificate</string>
+    <string name="domicile">Domicile Certificate</string>
+    <string name="photos">Photographs x 3</string>
+    <string name="migration_cert">Migration Certificate</string>
+
+    <!--Conditions-->
+    <string name="note1">* For CAP Candidates</string>
+    <string name="note2">+ For Reserved Category CAP candidates</string>
+    <string name="copies">Note: Please carry 3 sets of photocopies</string>
+
+    <string name="title_activity_profile">Profile</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!--What's Nearby?-->
+
+    <string name="activity_about">Explore the best institutes across Pune in one place!\n\nFind everything that you will need around your college including bookstores, restaurants and daily food services, hostels and accommodation and places to hang out with your friends.
+
+<b>\n\nJust select an institute from the list below and get started!</b></string>
+
+    <string name="about_institute">About the Institute</string>
+    <string name="find_bookstores">Nearby Bookstores</string>
+    <string name="find_food">Nearby Food Services</string>
+    <string name="find_acc">Find Accommodation</string>
+    <string name="find_fun">Places to Hangout</string>
+
+    <string name="DD">Hostel Fee DD to be drawn in name of :</string>
+
+    <!--Sinhgad College of Engineering (SCOE)!-->
+    <string name="scoe">Sinhgad College of Engineering</string>
+    <string name="about_scoe">Sinhgad College of Engineering is a technical education institute in the city of Vadgaon (Budruk), Pune, India. It was established in the year 1996 with 4 UG Programs and a sanctioned intake of 240 students. The institute is affiliated with the Savitribai Phule Pune University and managed by the Sinhgad Technical Education Society (STES). The college takes its name from the nearby Maratha fort. It has been accredited by the National Board of Accreditation and recognized by the AICTE. The institute has also been awarded an \'A\' Grade by the National Assessment and Accreditation Council.</string>
+    <string name="address_scoe">Vadgoan Budruk, Pune - 411041</string>
+
+    <string name="hostelFee_scoe">₹60,500</string>
+    <string name="HostelfeeBoysDDscoe">For Boys - \"Sinhgad Boys Hostel\" , Payable at Pune</string>
+    <string name="HostelfeeGirlsDDscoe">For Girls - \"Sinhgad Girls Hostel\" , Payable at Pune</string>
+
+    <string name="book1_scoe">1. Book Service</string>
+    <string name="book2_scoe">2. Book Service</string>
+    <string name="book3_scoe">3. Book Service</string>
+
+    <string name="food1_scoe">1. Food Service</string>
+    <string name="food2_scoe">2. Food Service</string>
+    <string name="food3_scoe">3. Food Service</string>
+
+    <string name="acc1_scoe">1. Hostel Service</string>
+    <string name="acc2_scoe">2. Hostel Service</string>
+    <string name="acc3_scoe">3. Hostel Service</string>
+
+    <string name="fun1_scoe">1. Hangout Place</string>
+    <string name="fun2_scoe">2. Hangout Place</string>
+    <string name="fun3_scoe">3. Hangout Place</string>
+    <!--SCOE END-->
+
+
+    <!--RMD-->
+    <string name="rmd">RMD Sinhgad School of Engineering</string>
+    <string name="about_rmd">RMD Sinhgad Technical Institutes Campus Warje, Pune was established in 2011-2012 under the umbrella of Sinhgad Institutes. The campus is well connected by Air, Rail and Bus. It is a lush green campus with good hostels for boys and girls, messes, canteens, sports ground, cultural centre etc.</string>
+    <string name="address_rmd">Warje, Pune - 411058</string>
+
+    <string name="hostelFee_rmd">N.A.</string>
+
+    <string name="book1_rmd">1. Jay Book Depo, Kothrud</string>
+    <string name="book2_rmd">2. Lakshmi Book Depo, Kothrud</string>
+    <string name="book3_rmd">3. Pragati Book Depo, Appa Balwant Chowk</string>
+
+    <string name="food1_rmd">1. Food Service</string>
+    <string name="food2_rmd">2. Food Service</string>
+    <string name="food3_rmd">3. Food Service</string>
+
+    <string name="acc1_rmd">1. Hostel Service</string>
+    <string name="acc2_rmd">2. Hostel Service</string>
+    <string name="acc3_rmd">3. Hostel Service</string>
+
+    <string name="fun1_rmd">1. Hangout Place</string>
+    <string name="fun2_rmd">2. Hangout Place</string>
+    <string name="fun3_rmd">3. Hangout Place</string>
+    <!--RMD END-->
+
+
+    <!--SKNCOE-->
+    <string name="skn">Smt. Kashibai Navale College of Engineering</string>
+    <string name="about_skn">Smt. Kashibai Navale College of Engineering (SKNCOE) is a technical institution in the locality of Vadgaon Budruk in the city Pune, India. It is affiliated with the Savitribai Phule Pune University, and managed by the Sinhgad Technical Education Society. It has been accredited by the National Board of Accreditation and recognized by the AICTE. The institute has also been awarded an \'A\' Grade by The Directorate of Technical Education (DTE), Maharashtra state, Mumbai.</string>
+    <string name="address_skn">Vadgoan Budruk, Pune - 411041</string>
+
+    <string name="hostelFee_skn">₹60,500</string>
+    <string name="HostelfeeBoysDDskn">For Boys - \"Sinhgad Boys Hostel\" , Payable at Pune</string>
+    <string name="HostelfeeGirlsDDskn">For Girls - \"Sinhgad Girls Hostel\" , Payable at Pune</string>
+
+    <string name="book1_skn">1. Book Service</string>
+    <string name="book2_skn">2. Book Service</string>
+    <string name="book3_skn">3. Book Service</string>
+
+    <string name="food1_skn">1. Food Service</string>
+    <string name="food2_skn">2. Food Service</string>
+    <string name="food3_skn">3. Food Service</string>
+
+    <string name="acc1_skn">1. Hostel Service</string>
+    <string name="acc2_skn">2. Hostel Service</string>
+    <string name="acc3_skn">3. Hostel Service</string>
+
+    <string name="fun1_skn">1. Hangout Place</string>
+    <string name="fun2_skn">2. Hangout Place</string>
+    <string name="fun3_skn">3. Hangout Place</string>
+
+    <!--SKNCOE END-->
+
+    <!--NBNSSOE-->
+    <string name="nbn">NBN Sinhgad School of Engineering</string>
+    <string name="about_nbn">Smt. Kashibai Navale College of Engineering (SKNCOE) is a technical institution in the locality of Vadgaon Budruk in the city Pune, India. It is affiliated with the Savitribai Phule Pune University, and managed by the Sinhgad Technical Education Society. It has been accredited by the National Board of Accreditation and recognized by the AICTE. The institute has also been awarded an \'A\' Grade by The Directorate of Technical Education (DTE), Maharashtra state, Mumbai.</string>
+    <string name="address_nbn">Ambegoan Budruk, Pune - 411041</string>
+    <string name="hostelFee_nbn">₹56,500</string>
+    <string name="HostelfeeBoysDDnbn">For Boys - \"Sinhgad Boys Hostel\" , Payable at Pune</string>
+    <string name="HostelfeeGirlsDDnbn">For Girls - \"Sinhgad Girls Hostel\" , Payable at Pune</string>
+
+    <string name="book1_nbn">1. Book Service</string>
+    <string name="book2_nbn">2. Book Service</string>
+    <string name="book3_nbn">3. Book Service</string>
+
+    <string name="food1_nbn">1. Food Service</string>
+    <string name="food2_nbn">2. Food Service</string>
+    <string name="food3_nbn">3. Food Service</string>
+
+    <string name="acc1_nbn">1. Hostel Service</string>
+    <string name="acc2_nbn">2. Hostel Service</string>
+    <string name="acc3_nbn">3. Hostel Service</string>
+
+    <string name="fun1_nbn">1. Hangout Place</string>
+    <string name="fun2_nbn">2. Hangout Place</string>
+    <string name="fun3_nbn">3. Hangout Place</string>
+
+    <!--NBNSSOE END-->
+
+    <!--SAE-->
+    <string name="sae">Sinhgad Academy of Engineering</string>
+    <string name="about_sae">From the academic year 2005-06, Sinhgad Academy of Engineering was started. It conducts four-year degree courses in the fields of Mechanical Engineering, Computer Engineering, Information Technology and Electronics and Telecommunication. The college also has well equipped Hostels and Mess, Canteen, and Clinic for first level medical assistance with a Campus Doctor. Transportation exists round the clock for medical emergencies.</string>
+    <string name="address_sae">Kondhwa Budruk, Pune - 411048</string>
+
+    <string name="hostelFee_sae">₹60,500</string>
+    <string name="HostelfeeBoysDDsae">For Boys - \"Sinhgad Boys Hostel\" , Payable at Pune</string>
+    <string name="HostelfeeGirlsDDsae">For Girls - \"Sinhgad Girls Hostel\" , Payable at Pune</string>
+
+    <string name="book1_sae">1. Book Service</string>
+    <string name="book2_sae">2. Book Service</string>
+    <string name="book3_sae">3. Book Service</string>
+
+    <string name="food1_sae">1. Food Service</string>
+    <string name="food2_sae">2. Food Service</string>
+    <string name="food3_sae">3. Food Service</string>
+
+    <string name="acc1_sae">1. Hostel Service</string>
+    <string name="acc2_sae">2. Hostel Service</string>
+    <string name="acc3_sae">3. Hostel Service</string>
+
+    <string name="fun1_sae">1. Hangout Place</string>
+    <string name="fun2_sae">2. Hangout Place</string>
+    <string name="fun3_sae">3. Hangout Place</string>
+
+    <!--SAE END-->
+
+    <!--SIT-->
+
+    <string name="sit">Sinhgad Institute of Technology</string>
+    <string name="about_sit">Sinhgad Institute of Technology (SIT) is an educational institute in Lonavala, India. It was established in 2004 and is a part of Sinhgad Technical Education Society, Lonavala campus.</string>
+    <string name="address_sit">Lonavala, Dist. Pune - 410401</string>
+    <string name="hostelFee_sit">₹55,000</string>
+    <string name="HostelfeeBoysDDsit">For Boys - \"Sinhgad Boys Hostel, Lonavala\" , Payable at Pune</string>
+    <string name="HostelfeeGirlsDDsit">For Girls - \"Sinhgad Girls Hostel, Lonavala\" , Payable at Pune</string>
+
+    <string name="book1_sit">1. Book Service</string>
+    <string name="book2_sit">2. Book Service</string>
+    <string name="book3_sit">3. Book Service</string>
+
+    <string name="food1_sit">1. Food Service</string>
+    <string name="food2_sit">2. Food Service</string>
+    <string name="food3_sit">3. Food Service</string>
+
+    <string name="acc1_sit">1. Hostel Service</string>
+    <string name="acc2_sit">2. Hostel Service</string>
+    <string name="acc3_sit">3. Hostel Service</string>
+
+    <string name="fun1_sit">1. Hangout Place</string>
+    <string name="fun2_sit">2. Hangout Place</string>
+    <string name="fun3_sit">3. Hangout Place</string>
+
+    <!--SIT END-->
+
+
+    <!--SITS-->
+
+    <string name="sits">Sinhgad Institute of Technology and Science</string>
+    <string name="about_sits">SKN Sinhgad Institute of Technology and Science situated at a beautiful location of Lonavala campus of Sinhgad, established in 2011 is a part of a well-known educational trust Sinhgad Technical Education Society having registered office in Pune. SKN Sinhgad Institute of Technology and Science is affiliated to the Savitribai Phule Pune University and is approved by AICTE.</string>
+    <string name="address_sits">Narhe, Pune - 411041</string>
+    <string name="hostelFee_sits">₹56,500</string>
+    <string name="HostelfeeBoysDDsits">For Boys - \"Sinhgad Boys Hostel, Lonavala\" , Payable at Pune</string>
+    <string name="HostelfeeGirlsDDsits">For Girls - \"Sinhgad Girls Hostel, Lonavala\" , Payable at Pune</string>
+
+
+    <string name="book1_sits">1. Book Service</string>
+    <string name="book2_sits">2. Book Service</string>
+    <string name="book3_sits">3. Book Service</string>
+
+    <string name="food1_sits">1. Food Service</string>
+    <string name="food2_sits">2. Food Service</string>
+    <string name="food3_sits">3. Food Service</string>
+
+    <string name="acc1_sits">1. Hostel Service</string>
+    <string name="acc2_sits">2. Hostel Service</string>
+    <string name="acc3_sits">3. Hostel Service</string>
+
+    <string name="fun1_sits">1. Hangout Place</string>
+    <string name="fun2_sits">2. Hangout Place</string>
+    <string name="fun3_sits">3. Hangout Place</string>
+
+    <!--SITS END-->
+
+    <!--SKNSITS-->
+
+    <string name="sknsits">SKN Sinhgad Institute of Technology and Science</string>
+    <string name="about_sknsits">The college has modern, state-of-the-art infrastructure appropriate to conduct to engineering education. The college has qualified and experienced faculty engaged in teaching and research. The college laboratories have modern equipments and experimental setups. The campus is Wi-Fi with 100 Mbps dedicated internet lease line out of which 32 Mbps is available to students after college hours and around 1200 computers with latest configuration are fully networked.</string>
+    <string name="address_sknsits">Kusgoan Budruk, Lonavala, Dist. Pune - 410401</string>
+
+    <string name="hostelFee_sknsits">₹60,000</string>
+    <string name="HostelfeeBoysDDsknsits">For Boys - \"Sinhgad Boys Hostel, Lonavala\" , Payable at Pune</string>
+    <string name="HostelfeeGirlsDDsknsits">For Girls - \"Sinhgad Girls Hostel, Lonavala\" , Payable at Pune</string>
+
+    <string name="book1_sknsits">1. Book Service</string>
+    <string name="book2_sknsits">2. Book Service</string>
+    <string name="book3_sknsits">3. Book Service</string>
+
+    <string name="food1_sknsits">1. Food Service</string>
+    <string name="food2_sknsits">2. Food Service</string>
+    <string name="food3_sknsits">3. Food Service</string>
+
+    <string name="acc1_sknsits">1. Hostel Service</string>
+    <string name="acc2_sknsits">2. Hostel Service</string>
+    <string name="acc3_sknsits">3. Hostel Service</string>
+
+    <string name="fun1_sknsits">1. Hangout Place</string>
+    <string name="fun2_sknsits">2. Hangout Place</string>
+    <string name="fun3_sknsits">3. Hangout Place</string>
+
+    <!--SKNSITS END-->
+
+
+    <!--NBN FEE-->
+
+    <string name="nbn_open">₹ 94,165</string>
+    <string name="nbn_obc">₹ 56,009</string>
+    <string name="nbn_nt">₹ 18,352</string>
+
+    <!--RMD-->
+    <string name="rmd_open">₹ 102,300</string>
+    <string name="rmd_obc">₹ 60,391</string>
+    <string name="rmd_sc_nt">₹ 18,352</string>
+
+    <!--SCOE FEE-->
+    <string name="scoe_open">₹ 102,300</string>
+    <string name="scoe_obc">₹ 60,391</string>
+    <string name="scoe_sc_nt">₹ 18,482</string>
+
+    <!--Skn fee-->
+    <string name="skn_open">₹ 95,740</string>
+    <string name="skn_obc">₹ 55,649</string>
+    <string name="skn_nt">₹ 15,558</string>
+    <string name="skn_sc">₹ 19,558</string>
+
+    <!--SITS-->
+    <string name="sits_open">₹ 1,01,040</string>
+    <string name="sits_obc">₹ 60,131</string>
+    <string name="sits_sc_nt">₹ 19,222</string>
+
+    <!--SKNSITS-->
+    <string name="sknsits_open">₹ 89,570</string>
+    <string name="sknsits_obc">₹ 53,866</string>
+    <string name="sknsits_sc_nt">₹ 18,161</string>
+    <string name="sknsits_hostel">₹ 55,000</string>
+
+    <!--SAE-->
+    <string name="sae_open">₹ 100,670</string>
+    <string name="sae_obc">₹ 59,843</string>
+    <string name="sae_sc_nt">₹ 19,051</string>
+    <string name="sae_hostel">₹ 60,500</string>
+
+    <!--SIT-->
+    <string name="sit_open">₹ 101,040</string>
+    <string name="sit_obc">₹ 60,131</string>
+    <string name="sit_sc_nt">₹ 19,222</string>
+    <string name="sit_hostel">₹ 55,000</string>
+
+
+    <!--Stream Suggestor-->
+
+    <string name="question1">What topic did you prefer in 11th and 12th grade?</string>
+    <string name="question2">What was your optional subject in the 12th grade?</string>
+    <string name="question3">The following type of bonding is strongly directional in solids</string>
+    <string name="question4">The foundations are placed below ground level, to increase</string>
+    <string name="question5">When a fourth resistor is connected in series with three resistors, the total resistance</string>
+    <string name="question6">What are the effects of moving a closed wire loop through a magnetic field?</string>
+    <string name="question7">The yield of the antibiotic depends upon</string>
+    <string name="question8">In a refrigerating machine, heat rejected is __________ heat absorbed.</string>
+    <string name="question9">In automobiles G.V.W. refers to</string>
+    <string name="question10">1 byte is equivalent to?</string>
+    <string name="question11">Corrosion of metals can not be prevented by its</string>
+    <string name="question12">The normal component of a force inclined through θ° is obtained by multiplying the force by</string>
+    <string name="question13">A two-terminal variable resistor is known as a</string>
+    <string name="question14">The most commonly used semiconductor material is</string>
+    <string name="question15">The composition of nucleotide in a DNA molecule does not include</string>
+    <string name="question16">One litre of water occupies a volume of</string>
+    <string name="question17">What does ABS stand for?</string>
+    <string name="question18">What does the statement a=b do?</string>
+
+
+    <string name="q1answer">0</string>
+    <string name="q2answer">0</string>
+    <string name="q3answer">0</string>
+    <string name="q4answer">0</string>
+    <string name="q5answer">0</string>
+
+
+    <string name="z1">Physics</string>
+    <string name="z2">Chemistry</string>
+    <string name="z3">Maths</string>
+
+
+    <string name="c1">Computers</string>
+    <string name="c2">Electronics</string>
+    <string name="c3">Biology</string>
+    <string name="c4">Geography</string>
+
+    <string name="c5">Vander Waal\'s</string>
+    <string name="c6">Ionic</string>
+    <string name="c7">Metallic</string>
+    <string name="c8">Covalent</string>
+
+    <string name="c9">Strength</string>
+    <string name="c10">Workability</string>
+    <string name="c11">Stability of structure</string>
+    <string name="c12">All of the above</string>
+
+    <string name="c13">Increases by one-fourth</string>
+    <string name="c14">Increases</string>
+    <string name="c15">Decreases</string>
+    <string name="c16">Remains the same</string>
+
+    <string name="c17">A voltage is induced in the wire</string>
+    <string name="c18">A current is induced in the wire</string>
+    <string name="c19">The polarity across the wire depends on the direction of motion</string>
+    <string name="c20">All of the above</string>
+
+    <string name="c21">pH of the medium</string>
+    <string name="c22">Age of the inoculum</string>
+    <string name="c23">Composition of the medium</string>
+    <string name="c24">All of the above</string>
+
+    <string name="c25">Equal to</string>
+    <string name="c26">Less than</string>
+    <string name="c27">Greater than</string>
+    <string name="c28">None of the above</string>
+
+    <string name="c29">Gross Vehicle Width</string>
+    <string name="c30">Gross Vehicle Weight</string>
+    <string name="c31">Gross Vehicle Wheelbase</string>
+    <string name="c32">Gross Vehicle Wheel-track</string>
+
+    <string name="c33">4 bits</string>
+    <string name="c34">8 bits</string>
+    <string name="c35">2 bits</string>
+    <string name="c36">16 bits</string>
+
+    <string name="c37">Tempering</string>
+    <string name="c38">Chromising</string>
+    <string name="c39">Alluminising</string>
+    <string name="c40">Alloying</string>
+
+    <string name="c41">sin θ </string>
+    <string name="c42">cos θ</string>
+    <string name="c43">tan θ</string>
+    <string name="c44">sin θ cos θ</string>
+
+    <string name="c45">Potentiometer</string>
+    <string name="c46">Thermister</string>
+    <string name="c47">Rheostat</string>
+    <string name="c48">Wiper</string>
+
+    <string name="c49">Silicon</string>
+    <string name="c50">Germanium</string>
+    <string name="c51">Mixture of silicon and germanium</string>
+    <string name="c52">None of the above</string>
+
+    <string name="c53">Guanine</string>
+    <string name="c54">Adenine</string>
+    <string name="c55">Thymine</string>
+    <string name="c56">Cytidine</string>
+
+    <string name="c57">100 cubic centimetre</string>
+    <string name="c58">250 cubic centimetre</string>
+    <string name="c59">500 cubic centimetre</string>
+    <string name="c60">1000 cubic centimetre</string>
+
+    <string name="c61">Anti-Braking System</string>
+    <string name="c62">Anti-lock Braking System</string>
+    <string name="c63">Anti-slip Braking System</string>
+    <string name="c64">None</string>
+
+    <string name="c65">Assigns value of variable b to variable a</string>
+    <string name="c66">Checks if value of variable a is equal to variable b</string>
+    <string name="c67">The values of \'a\' and \'b\' are interchanged</string>
+    <string name="c68">None</string>
+
+    <string name="findaclg">Worried about which college to select? We\'re here to help!</string>
+
+    <string name="find2">Just enter your MH-CET marks, your preferred stream and rank the 8 Sinhgad Colleges as per your choice and leave the rest to us! :)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="resultCollege">According to your preferences and MH-CET marks, you are best suited for </string>
+
+
+</resources>

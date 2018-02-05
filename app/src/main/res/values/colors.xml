@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blueGrey">#424242</color>
+    <color name="admissionInfo">#80DEEA</color>
+
+    <color name="streamSuggestor">#A5D6A7</color>
+
+    <color name="findCollege">#F44336</color>
+
+    <color name="areaInfo">#4CAF50</color>
+
+    <color name="documentChecklist">#9C27B0</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="textColor">#000000</color>
+    <color name="TextHeader">#EF5350</color>
+    <color name="colorButtonText">#0D47A1</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="colorCheckList">#212121</color>
+    <color name="back1">#FFFFFF</color>
+    <color name="text1">#000000</color>
+
+    <color name="dark">#FFFFFF</color>
+    <color name="text">#000000</color>
+    <color name="label">#4a5597</color>
+
+    <color name="clgInfo1">#3F51B5</color>
+    <color name="clgInfo2">#FFC107</color>
+    <color name="clgInfo3">#33691E</color>
+    <color name="clgInfo4">#B71C1C</color>
+
+
+    <color name="pie1">#3F51B5</color>
+    <color name="pie2">#FFC107</color>
+    <color name="pie3">#33691E</color>
+    <color name="pie4">#B71C1C</color>
+    <color name="pie5">#2196F3</color>
+    <color name="pie6">#00695C</color>
+    <color name="pie7">#4527A0</color>
+    <color name="pie8">#EF6C00</color>
+
+    <color name="s1">#66473d</color>
+    <color name="s2">#d32f2f</color>
+    <color name="s3">#ffa000</color>
+    <color name="s4">#f5f202</color>
+    <color name="s5">#08ab05</color>
+    <color name="s6">#05a8ba</color>
+    <color name="s7">#072681</color>
+    <color name="s8">#4a0781</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="profile">#00BCD4</color>
+</resources>

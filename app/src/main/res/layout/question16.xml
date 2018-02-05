@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25"
+        android:text="Question 16"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:elevation="4dp"
+        android:background="#FF5722"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="22sp"
+        android:padding="12dp"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:text="@string/question16"
+        android:paddingBottom="10dip"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#607D8B"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:paddingLeft="30dip"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        android:paddingBottom="30dip">
+        <RadioButton
+            android:id="@+id/q16a1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="22sp"
+            android:layout_weight="1"
+            android:text="@string/c57"/>
+        <RadioButton
+            android:id="@+id/q16a2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="22sp"
+            android:layout_weight="1"
+            android:text="@string/c58"/>
+        <RadioButton
+            android:id="@+id/q16a3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="22sp"
+            android:layout_weight="1"
+            android:text="@string/c59"/>
+        <RadioButton
+            android:id="@+id/q16a4"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="22sp"
+            android:layout_weight="1"
+            android:text="@string/c60"/>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn16"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:textSize="15sp"
+        style="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:text="Submit answer"/>
+</LinearLayout>

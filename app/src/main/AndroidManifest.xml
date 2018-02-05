@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.varun.project">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Sinhgad Assist"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".AdmissionInfo" />
+        <activity android:name=".DocumentChecklist" />
+        <activity
+            android:name=".Profile"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity android:name=".Login" />
+        <activity android:name=".Register"/>
+        <activity android:name=".WhatsNearby" />
+        <activity android:name=".DisplayCollegeInfo" />
+        <activity android:name=".DisplayPlacements" />
+        <activity android:name=".StreamSuggestor" />
+        <activity android:name=".FindACollege" />
+        <activity android:name=".CollegeResult" />
+        <activity android:name=".IntakeRMD" />
+        <activity android:name=".IntakeNBN" />
+        <activity android:name=".IntakeSAE" />
+        <activity android:name=".IntakeSITS" />
+        <activity android:name=".IntakeSCOE" />
+        <activity android:name=".IntakeSKN" />
+        <activity android:name=".IntakeSKNSITS" />
+        <activity android:name=".QuizResult" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

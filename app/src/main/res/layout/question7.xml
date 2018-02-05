@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25"
+        android:text="Question 7"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:elevation="4dp"
+        android:background="#FF5722"
+        android:textColor="@android:color/white"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="22sp"
+        android:padding="12dp"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:text="@string/question7"
+        android:paddingBottom="10dip"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#607D8B"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:paddingLeft="30dip"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        android:paddingBottom="30dip">
+        <RadioButton
+            android:id="@+id/q7a1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="22sp"
+            android:layout_weight="1"
+            android:text="@string/c21"/>
+        <RadioButton
+            android:id="@+id/q7a2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="22sp"
+            android:layout_weight="1"
+            android:text="@string/c22"/>
+        <RadioButton
+            android:id="@+id/q7a3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="22sp"
+            android:layout_weight="1"
+            android:text="@string/c23"/>
+        <RadioButton
+            android:id="@+id/q7a4"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="22sp"
+            android:layout_weight="1"
+            android:text="@string/c24"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn7"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:textSize="15sp"
+        style="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:text="Submit answer" />
+</LinearLayout>
